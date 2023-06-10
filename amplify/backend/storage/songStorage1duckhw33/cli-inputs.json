@@ -1,0 +1,14 @@
+{
+  "resourceName": "songStorage1duckhw33",
+  "policyUUID": "47d31d57",
+  "bucketName": "song-storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
